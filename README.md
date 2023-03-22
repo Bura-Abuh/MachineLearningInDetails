@@ -58,8 +58,8 @@ If you want to play with these notebooks online without having to install any li
 Any kind of feedback/suggestions would be greatly appreciated (algorithm design, documentation, improvement ideas, spelling mistakes, etc...). If you want to make a contribution to the course you can do it through a PR.
 
 ## Author
-- Created by Andrés Segura-Tinoco
-- Created on Mar 06, 2021
+- Created by Birhan Abuhay Jemere
+- Created on Mar 22, 2023
 
 ## License
-This project is licensed under the terms of the <a href="https://github.com/ansegura7/MachineLearning/blob/main/LICENSE">MIT license</a>.
+This project is licensed under the terms of the <a href="https://github.com/Bura-Abuh/MachineLearning/blob/main/LICENSE">MIT license</a>.
