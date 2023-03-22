@@ -24,7 +24,7 @@ If you want to play with these notebooks online without having to install any li
 - Linear Discriminant Analysis: <a href="https://colab.research.google.com/drive/14oqbmxYlYzgSw4MJzp7YrXBXGQ-N2y19?usp=sharing" target="_blank">code</a>
 
 2. Machine Learning
-- What is Machine Learning: <a href="https://twitter.com/SeguraAndres7/status/1406325975080656896?s=20" target="_blank">explanation</a>
+- What is Machine Learning: <a href="https://twitter.com/AbuhayJemere/status/1406325975080656896?s=20" target="_blank">explanation</a>
 - Fundamentals: <a href="https://twitter.com/SeguraAndres7/status/1374683470342066177?s=20" target="_blank">explanation</a>
 - Tips for deploying ML models: <a href="https://twitter.com/SeguraAndres7/status/1439000608112062474?s=20" target="_blank">explanation</a> 
 - Unsupervised Learning (UL)
